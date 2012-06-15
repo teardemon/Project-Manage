@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="testmerchantdll">
+</Property><Property Name="解决方案文件" Value="D:\workspace\商户开发包\代码\发布文件\商户开发包\商户开发包\示例\dotnet\testmerchantdll\testmerchantdll.sln">
+</Property><Property Name="用户选项文件" Value="D:\workspace\商户开发包\代码\发布文件\商户开发包\商户开发包\示例\dotnet\testmerchantdll\testmerchantdll.suo">
+</Property><Property Name="Date" Value="2008年12月29日">
+</Property><Property Name="Time" Value="14:24">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="testmerchantdll.sln" Description="文件已成功备份为 D:\workspace\商户开发包\代码\发布文件\商户开发包\商户开发包\示例\dotnet\testmerchantdll\Backup\testmerchantdll.sln">
+</Event><Event ErrorLevel="0" Project="" Source="testmerchantdll.suo" Description="文件已成功备份为 D:\workspace\商户开发包\代码\发布文件\商户开发包\商户开发包\示例\dotnet\testmerchantdll\Backup\testmerchantdll.suo">
+</Event><Event ErrorLevel="0" Project="testmerchantdll" Source="testmerchantdll\testmerchantdll.csproj" Description="项目文件已成功备份为 D:\workspace\商户开发包\代码\发布文件\商户开发包\商户开发包\示例\dotnet\testmerchantdll\Backup\testmerchantdll\testmerchantdll.csproj">
+</Event><Event ErrorLevel="0" Project="testmerchantdll" Source="testmerchantdll\Form1.cs" Description="文件已成功备份为 D:\workspace\商户开发包\代码\发布文件\商户开发包\商户开发包\示例\dotnet\testmerchantdll\Backup\testmerchantdll\Form1.cs">
+</Event><Event ErrorLevel="0" Project="testmerchantdll" Source="testmerchantdll\Form1.Designer.cs" Description="文件已成功备份为 D:\workspace\商户开发包\代码\发布文件\商户开发包\商户开发包\示例\dotnet\testmerchantdll\Backup\testmerchantdll\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="testmerchantdll" Source="testmerchantdll\Login.cs" Description="文件已成功备份为 D:\workspace\商户开发包\代码\发布文件\商户开发包\商户开发包\示例\dotnet\testmerchantdll\Backup\testmerchantdll\Login.cs">
+</Event><Event ErrorLevel="0" Project="testmerchantdll" Source="testmerchantdll\Login.Designer.cs" Description="文件已成功备份为 D:\workspace\商户开发包\代码\发布文件\商户开发包\商户开发包\示例\dotnet\testmerchantdll\Backup\testmerchantdll\Login.Designer.cs">
+</Event><Event ErrorLevel="0" Project="testmerchantdll" Source="testmerchantdll\Program.cs" Description="文件已成功备份为 D:\workspace\商户开发包\代码\发布文件\商户开发包\商户开发包\示例\dotnet\testmerchantdll\Backup\testmerchantdll\Program.cs">
+</Event><Event ErrorLevel="0" Project="testmerchantdll" Source="testmerchantdll\Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\workspace\商户开发包\代码\发布文件\商户开发包\商户开发包\示例\dotnet\testmerchantdll\Backup\testmerchantdll\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="testmerchantdll" Source="testmerchantdll\Properties\Resources.Designer.cs" Description="文件已成功备份为 D:\workspace\商户开发包\代码\发布文件\商户开发包\商户开发包\示例\dotnet\testmerchantdll\Backup\testmerchantdll\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="testmerchantdll" Source="testmerchantdll\Properties\Settings.Designer.cs" Description="文件已成功备份为 D:\workspace\商户开发包\代码\发布文件\商户开发包\商户开发包\示例\dotnet\testmerchantdll\Backup\testmerchantdll\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="testmerchantdll" Source="testmerchantdll\Properties\Settings.settings" Description="文件已成功备份为 D:\workspace\商户开发包\代码\发布文件\商户开发包\商户开发包\示例\dotnet\testmerchantdll\Backup\testmerchantdll\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="testmerchantdll" Source="testmerchantdll\Form1.resx" Description="文件已成功备份为 D:\workspace\商户开发包\代码\发布文件\商户开发包\商户开发包\示例\dotnet\testmerchantdll\Backup\testmerchantdll\Form1.resx">
+</Event><Event ErrorLevel="0" Project="testmerchantdll" Source="testmerchantdll\Login.resx" Description="文件已成功备份为 D:\workspace\商户开发包\代码\发布文件\商户开发包\商户开发包\示例\dotnet\testmerchantdll\Backup\testmerchantdll\Login.resx">
+</Event><Event ErrorLevel="0" Project="testmerchantdll" Source="testmerchantdll\Properties\Resources.resx" Description="文件已成功备份为 D:\workspace\商户开发包\代码\发布文件\商户开发包\商户开发包\示例\dotnet\testmerchantdll\Backup\testmerchantdll\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="testmerchantdll" Source="testmerchantdll\testmerchantdll.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="testmerchantdll" Source="testmerchantdll\testmerchantdll.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="testmerchantdll.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="testmerchantdll.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="testmerchantdll" Source="testmerchantdll\testmerchantdll.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>
