@@ -1,0 +1,9 @@
+select * from price_index t;
+select t.*,t.rowid from price_index t where t.status=0;
+select * from finance_order f;
+
+
+select f.order_no,f.memo,f.rowid from finance_order f where f.memo like '%X%';
+
+select f.order_no,f.memo,f.rowid from finance_order f where f.memo like '%*%';
+ 
