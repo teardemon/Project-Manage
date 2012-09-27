@@ -18411,7 +18411,7 @@ CARD 0 Microsoft Sans Serif,8,N</a:FontList>
 <o:ReferenceSymbol Id="o431">
 <a:CreationDate>1316755722</a:CreationDate>
 <a:ModificationDate>1316755722</a:ModificationDate>
-<a:CenterTextOffset>(0, 7)</a:CenterTextOffset>
+<a:CenterTextOffset>(0, 8)</a:CenterTextOffset>
 <a:SourceTextOffset>(-197, -6)</a:SourceTextOffset>
 <a:DestinationTextOffset>(197, 6)</a:DestinationTextOffset>
 <a:Rect>((-12250,-21046), (2450,22431))</a:Rect>
@@ -18434,10 +18434,10 @@ CARD 0 Microsoft Sans Serif,8,N</a:FontList>
 <o:ReferenceSymbol Id="o434">
 <a:CreationDate>1317191849</a:CreationDate>
 <a:ModificationDate>1317191849</a:ModificationDate>
-<a:CenterTextOffset>(6, 0)</a:CenterTextOffset>
+<a:CenterTextOffset>(7, 0)</a:CenterTextOffset>
 <a:SourceTextOffset>(187, 536)</a:SourceTextOffset>
 <a:DestinationTextOffset>(-188, -536)</a:DestinationTextOffset>
-<a:Rect>((-26787,21542), (-1838,24595))</a:Rect>
+<a:Rect>((-26787,21542), (-1837,24595))</a:Rect>
 <a:ListOfPoints>((-3700,22342),(-26787,24595))</a:ListOfPoints>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>16711680</a:LineColor>
@@ -18480,10 +18480,10 @@ CARD 0 Microsoft Sans Serif,8,N</a:FontList>
 <o:ReferenceSymbol Id="o441">
 <a:CreationDate>1318409406</a:CreationDate>
 <a:ModificationDate>1318409406</a:ModificationDate>
-<a:CenterTextOffset>(16, 0)</a:CenterTextOffset>
+<a:CenterTextOffset>(17, 0)</a:CenterTextOffset>
 <a:SourceTextOffset>(-515, 21)</a:SourceTextOffset>
 <a:DestinationTextOffset>(515, -21)</a:DestinationTextOffset>
-<a:Rect>((-12040,22246), (2284,39975))</a:Rect>
+<a:Rect>((-12039,22246), (2285,39975))</a:Rect>
 <a:ListOfPoints>((-6725,39975),(-3550,22246))</a:ListOfPoints>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>16711680</a:LineColor>
@@ -18569,7 +18569,7 @@ CARD 0 Microsoft Sans Serif,8,N</a:FontList>
 <o:ReferenceSymbol Id="o450">
 <a:CreationDate>1321305573</a:CreationDate>
 <a:ModificationDate>1321305573</a:ModificationDate>
-<a:CenterTextOffset>(0, 6)</a:CenterTextOffset>
+<a:CenterTextOffset>(0, 7)</a:CenterTextOffset>
 <a:SourceTextOffset>(-252, -123)</a:SourceTextOffset>
 <a:DestinationTextOffset>(252, 123)</a:DestinationTextOffset>
 <a:Rect>((-2817,-8321), (13137,22619))</a:Rect>
@@ -18592,7 +18592,7 @@ CARD 0 Microsoft Sans Serif,8,N</a:FontList>
 <o:ReferenceSymbol Id="o453">
 <a:CreationDate>1323022671</a:CreationDate>
 <a:ModificationDate>1323022671</a:ModificationDate>
-<a:CenterTextOffset>(0, 6)</a:CenterTextOffset>
+<a:CenterTextOffset>(0, 7)</a:CenterTextOffset>
 <a:SourceTextOffset>(-99, 345)</a:SourceTextOffset>
 <a:DestinationTextOffset>(99, -345)</a:DestinationTextOffset>
 <a:Rect>((-24088,-7959), (-4047,1245))</a:Rect>
@@ -19421,11 +19421,11 @@ commit;</a:EndScript>
 </o:Shortcut>
 <o:Table Id="o460">
 <a:ObjectID>9CE13F6E-FBE9-4C65-B57B-F6CE66CA474B</a:ObjectID>
-<a:Name>客户关系表</a:Name>
+<a:Name>客户关系明细表</a:Name>
 <a:Code>agent_relation</a:Code>
 <a:CreationDate>1316754354</a:CreationDate>
 <a:Creator>Administrator</a:Creator>
-<a:ModificationDate>1323194124</a:ModificationDate>
+<a:ModificationDate>1347800833</a:ModificationDate>
 <a:Modifier>Administrator</a:Modifier>
 <c:Columns>
 <o:Column Id="o511">
